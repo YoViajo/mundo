@@ -1,0 +1,4 @@
+scratch-map-delta.vercel.app
+Scratch Map, a fog-of-war map of all the places you've been, according to your Google location history
+
+Ejemplo mis datos EA (2022 ago)
